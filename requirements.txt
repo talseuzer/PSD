@@ -1,0 +1,9 @@
+streamlit
+pandas
+openpyxl
+transformers
+torch
+scikit-learn
+plotly
+matplotlib
+re
